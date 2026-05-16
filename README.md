@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://jenildgohel.vercel.app/og-image.png" alt="Jenil D Gohel" width="100%" />
+<img src="https://jenildgohel.vercel.app/profile.jpg" alt="Jenil D Gohel" width="100%" />
 
 </div>
 
@@ -177,8 +177,8 @@ All issued and verified by **Anthropic Academy**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheJenilDGohel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=64748b&text_color=94a3b8&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJenilDGohel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TheJenilDGohel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=64748b&text_color=94a3b8&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheJenilDGohel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
