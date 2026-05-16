@@ -56,39 +56,33 @@ Beyond production code, I author open-source Flutter packages on pub.dev, build 
 
 ## Tech Stack
 
-**Mobile**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flame Engine](https://img.shields.io/badge/Flame%20Engine-FF6D00?style=flat-square&logo=dart&logoColor=white)
+### Mobile & Game Engines
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
+[![Android](https://skillicons.dev/icons?i=android)](https://developer.android.com)
+[![iOS](https://skillicons.dev/icons?i=apple)](https://developer.apple.com)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 
-**Backend & Data**
+### Backend & AI
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org)
+[![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Dart Frog](https://img.shields.io/badge/Dart%20Frog-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI & Tooling**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1a1a1a?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**DevOps & Workflow**
-
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Tools & DevOps
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 
 **Architecture** — BLoC · MVVM · MVC · Clean Architecture · WebSockets · Real-time Sync
+
+</div>
 
 ---
 
