@@ -4,61 +4,14 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Senior+Mobile+Architect;Flutter+%26+Full-Stack+Engineer;AI+%2F+MCP+Specialist;Building+the+Future+of+AI+Memory" alt="Typing SVG" />
-</div>
 
-<div align="center">
-
-*Building resilient, production-grade cross-platform systems from Ahmedabad, India 🇮🇳*
+* अहमदाबाद, India 🇮🇳 · [Portfolio](https://jenildgohel.vercel.app) · [LinkedIn](https://linkedin.com/in/the-jenil-d-gohel) · [Medium](https://thejenildgohel.medium.com)*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jenildgohel.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://jenildgohel.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-jenil-d-gohel)
-[![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white)](https://thejenildgohel.medium.com)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.jenildgohel@gmail.com)
+### 🛠️ Tech Ecosystem
 
-</div>
-
----
-
-## About
-
-I'm a **Lead Flutter Developer** with 3+ years of professional experience architecting high-performance cross-platform mobile ecosystems that scale. At **WebMob Technologies**, I led a 4-person mobile squad through the complete product lifecycle — from system architecture and security hardening to CI/CD automation and production release.
-
-My work sits at the intersection of **Mobile Security** and **Real-time Architecture**. I've shipped 11+ production-grade applications across fintech, healthcare, e-commerce, and gaming — integrating Stripe, Agora SDK, NFC/Bluetooth beacons, and custom AI pipelines along the way.
-
-Beyond production code, I author open-source Flutter packages on pub.dev, build AI tooling with the Model Context Protocol, and write technical articles focused on the engineering decisions that actually matter.
-
-> *"Build for the future, or become the past."*
-
----
-
-## Experience
-
-**Software Developer — Flutter & Mobile** · WebMob Technologies Pvt. Ltd.
-`Feb 2023 – Apr 2026 · 3 yrs 2 mos`
-
-- Shipped **11+ cross-platform applications** across Flutter, React Native, and native Android/iOS
-- Led a **4-person mobile squad** as project lead, managing day-to-day execution and delivery
-- Designed real-time architectures including **live order tracking** and multiplayer game state synchronisation
-- Integrated **Stripe**, Apple/Google **In-App Purchases**, and **Agora SDK** for video calling
-- Embedded **NFC and Bluetooth Beacon** SDKs for accessibility-first hardware features
-- Authored and published an open-source **Flutter jailbreak/root detection plugin** on pub.dev
-- Maintained automated **Fastlane** build and release pipelines end-to-end
-- Standardised **BLoC, MVVM, and MVC** architecture patterns across the team
-
-**Android Developer Intern** · Zobi Web Solutions Pvt. Ltd.
-`Nov 2022 – Jan 2023 · 2 mos`
-
-- Built and shipped UI modules for a production Android app in Kotlin, XML layouts, and MVVM
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Mobile & Game Engines
+**Mobile & Game Engines**
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
@@ -66,27 +19,53 @@ Beyond production code, I author open-source Flutter packages on pub.dev, build 
 [![iOS](https://skillicons.dev/icons?i=apple)](https://developer.apple.com)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 
-### Backend & AI
+**Backend & AI**
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org)
 [![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
+[![Ollama](https://skillicons.dev/icons?i=ollama)](https://ollama.ai)
 
-### Tools & DevOps
+**Workflow & Architecture**
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so)
+[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-
-**Architecture** — BLoC · MVVM · MVC · Clean Architecture · WebSockets · Real-time Sync
 
 </div>
 
 ---
 
-## Featured Projects
+## ⚡ Quick Bio
+
+I'm a **Lead Flutter Developer** with 3+ years of professional experience architecting high-performance cross-platform mobile ecosystems that scale. At **WebMob Technologies**, I lead a mobile squad of 4 through the complete product lifecycle.
+
+My expertise sits at the intersection of **Mobile Security** and **Real-time Architecture**. I've shipped 11+ production-grade apps across fintech, healthcare, and gaming — integrating Stripe, Agora SDK, and custom AI pipelines. I'm also the author of `enhanced_jailbreak_root_detection` on pub.dev.
+
+> *"Build for the future, or become the past."*
+
+---
+
+## 💼 Experience
+
+**Software Developer — Flutter & Mobile** · WebMob Technologies Pvt. Ltd.
+`Feb 2023 – Apr 2026 · 3 yrs 2 mos`
+
+- Shipped **11+ cross-platform applications** across Flutter, React Native, and native Android/iOS.
+- Led a **4-person mobile squad** as project lead, managing delivery and architecture.
+- Designed real-time sync systems for **live order tracking** and multiplayer gaming.
+- Integrated **Stripe**, Apple/Google **IAP**, and **Agora SDK** for enterprise-grade features.
+- Authored a top-rated **Flutter jailbreak/root detection plugin** on pub.dev.
+
+**Android Developer Intern** · Zobi Web Solutions Pvt. Ltd.
+`Nov 2022 – Jan 2023`
+
+---
+
+## 🚀 Featured Projects
 
 ### [Synapse — MCP Memory Server](https://github.com/TheJenilDGohel/Synapse)
 The minimalist transmission layer for AI context. Bio-inspired persistent memory, knowledge graph, and semantic recall — fully local-first. No cloud. No subscriptions. Your AI, finally remembering everything.
