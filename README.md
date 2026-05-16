@@ -1,16 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2dd4bf&height=300&section=header&text=Jenil%20D%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Senior%20Mobile%20Architect%20%7C%20AI%20Specialist&descAlignY=51&descSize=20" />
+</p>
+
 <div align="center">
-
-<img src="https://jenildgohel.vercel.app/profile.jpg" alt="Jenil D Gohel" width="100%" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Senior+Mobile+Architect;Flutter+%26+Full-Stack+Engineer;AI+%2F+MCP+Specialist;Building+the+Future+of+AI+Memory" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div align="center">
-
-# Jenil D Gohel
-
-**Senior Mobile Architect · Flutter & Full-Stack Engineer · AI / MCP Specialist**
 
 *Building resilient, production-grade cross-platform systems from Ahmedabad, India 🇮🇳*
 
