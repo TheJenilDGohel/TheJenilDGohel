@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Malwarebytes Flagged My AI Dev Tool as Malware. Here’s What Actually Happened.](https://blog.stackademic.com/malwarebytes-flagged-my-ai-dev-tool-as-malware-heres-what-actually-happened-c032d66a6387?source=rss-237f5450cc5e------2)
 - [The Man Who Builds AI Just Asked Everyone to Slow Down — And I Think He’s Right](https://thejenildgohel.medium.com/the-man-who-builds-ai-just-asked-everyone-to-slow-down-and-i-think-hes-right-73b452e57bf6?source=rss-237f5450cc5e------2)
 - [Flutter’s Swift Package Manager Migration Is Here — And If You Maintain a Plugin, You Need to Read…](https://blog.stackademic.com/flutters-swift-package-manager-migration-is-here-and-if-you-maintain-a-plugin-you-need-to-read-d23ffc088164?source=rss-237f5450cc5e------2)
 - [macOS 27 Golden Gate Dropped and I’m Not Updating Yet — Here’s Everything You Need to Know First](https://medium.com/never-stop-writing/macos-27-golden-gate-dropped-and-im-not-updating-yet-here-s-everything-you-need-to-know-first-1de12e62fe2b?source=rss-237f5450cc5e------2)
-- [The Claude Code Security Library That Made Me Forget About My Portfolio](https://blog.stackademic.com/the-claude-code-security-library-that-made-me-forget-about-my-portfolio-eeb1f598fbd9?source=rss-237f5450cc5e------2)
-- [Apple Watch Series 12 Review: Every Feature That Actually Matters — And Why This Is Apple’s Best…](https://blog.stackademic.com/apple-watch-series-12-review-every-feature-that-actually-matters-and-why-this-is-apples-best-28e096d8850b?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [The Claude Code Security Library That Made Me Forget About My Portfolio](https://blog.stackademic.com/the-claude-code-security-library-that-made-me-forget-about-my-portfolio-eeb1f598fbd9?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
