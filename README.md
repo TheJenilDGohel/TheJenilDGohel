@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [The White-Label Flutter Setup That Actually Stays Clean — No Widget Spaghetti, No Hand-Patching…](https://blog.stackademic.com/the-white-label-flutter-setup-that-actually-stays-clean-no-widget-spaghetti-no-hand-patching-2d115d9af5e2?source=rss-237f5450cc5e------2)
 - [I Built OpenMob So AI Agents Could See My Phone. Then Google Shipped ARTEMIS. ️](https://blog.stackademic.com/i-built-openmob-so-ai-agents-could-see-my-phone-then-google-shipped-artemis-%EF%B8%8F-1e1f7c6d68fc?source=rss-237f5450cc5e------2)
 - [Why the New Siri AI Is Actually Powerful — And Why Apple Had to Build It This Way](https://blog.stackademic.com/why-the-new-siri-ai-is-actually-powerful-and-why-apple-had-to-build-it-this-way-13c87e5f8403?source=rss-237f5450cc5e------2)
 - [We Added Agent-to-Agent Communication to Claudeway — Here’s What We Built and Why](https://blog.stackademic.com/we-gave-our-flutter-agent-a-direct-line-to-the-backend-agent-heres-how-it-actually-works-d6462ac28a6e?source=rss-237f5450cc5e------2)
-- [Stop Hardcoding API Keys in Your Flutter App — envied Does It Right](https://blog.stackademic.com/stop-hardcoding-api-keys-in-your-flutter-app-envied-does-it-right-82ee504fcef5?source=rss-237f5450cc5e------2)
-- [Malwarebytes Flagged My AI Dev Tool as Malware. Here’s What Actually Happened.](https://blog.stackademic.com/malwarebytes-flagged-my-ai-dev-tool-as-malware-heres-what-actually-happened-c032d66a6387?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Stop Hardcoding API Keys in Your Flutter App — envied Does It Right](https://blog.stackademic.com/stop-hardcoding-api-keys-in-your-flutter-app-envied-does-it-right-82ee504fcef5?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
