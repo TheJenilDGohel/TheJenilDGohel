@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Mods Explained: Plugins That Rewrite the Interface &lpar;And Why I’d Read the Code First&rpar;](https://thejenildgohel.medium.com/claude-code-mods-explained-plugins-that-rewrite-the-interface-and-why-id-read-the-code-first-009bccb083db?source=rss-237f5450cc5e------2)
+- [Dart Records and Patterns: Stop Writing Throwaway Classes in Flutter](https://blog.stackademic.com/dart-records-and-patterns-stop-writing-throwaway-classes-in-flutter-f3c675fa6eae?source=rss-237f5450cc5e------2)
+- [Claude Code Mods Explained: Plugins That Rewrite the Interface &lpar;And Why I’d Read the Code First&rpar;](https://blog.stackademic.com/claude-code-mods-explained-plugins-that-rewrite-the-interface-and-why-id-read-the-code-first-009bccb083db?source=rss-237f5450cc5e------2)
 - [Gemini in Chrome on Android: It Taps, Scrolls and Books Stuff for You](https://thejenildgohel.medium.com/gemini-in-chrome-on-android-it-taps-scrolls-and-books-stuff-for-you-read-the-fine-print-first-3af99d42487b?source=rss-237f5450cc5e------2)
 - [Gemini 4 Argon Explained: 1M Output Tokens, 77.9% on DeepSWE, and One Big Catch](https://thejenildgohel.medium.com/gemini-4-argon-explained-1m-output-tokens-77-9-on-deepswe-and-one-big-catch-c4a398770cb4?source=rss-237f5450cc5e------2)
-- [The White-Label Flutter Setup That Actually Stays Clean — No Widget Spaghetti, No Hand-Patching…](https://thejenildgohel.medium.com/the-white-label-flutter-setup-that-actually-stays-clean-no-widget-spaghetti-no-hand-patching-2d115d9af5e2?source=rss-237f5450cc5e------2)
-- [I Built OpenMob So AI Agents Could See My Phone. Then Google Shipped ARTEMIS. ️](https://thejenildgohel.medium.com/i-built-openmob-so-ai-agents-could-see-my-phone-then-google-shipped-artemis-%EF%B8%8F-1e1f7c6d68fc?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [The White-Label Flutter Setup That Actually Stays Clean — No Widget Spaghetti, No Hand-Patching…](https://thejenildgohel.medium.com/the-white-label-flutter-setup-that-actually-stays-clean-no-widget-spaghetti-no-hand-patching-2d115d9af5e2?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
