@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Desktop vs Electron in 2026: Impeller Fixed One Problem, Not the Big One](https://thejenildgohel.medium.com/flutter-desktop-vs-electron-in-2026-impeller-fixed-one-problem-not-the-big-one-b80943f6f9ec?source=rss-237f5450cc5e------2)
 - [Genkit Dart 1.0 Is Stable. Your Shipped Flutter App Still Might Break.](https://blog.stackademic.com/genkit-dart-1-0-is-stable-your-shipped-flutter-app-still-might-break-e99098435af6?source=rss-237f5450cc5e------2)
 - [Apple HomeView at ₹39,900: Apple’s Smart Home Comeback Has a Catch](https://thejenildgohel.medium.com/apple-homeview-at-39-900-apples-smart-home-comeback-has-a-catch-fd02909212e0?source=rss-237f5450cc5e------2)
 - [Apple “Welcome Home” Event 2026: HomeView, Apple TV 4K &amp; HomePod mini 2 &lpar;Hype vs.](https://thejenildgohel.medium.com/apple-welcome-home-event-2026-homeview-apple-tv-4k-homepod-mini-2-hype-vs-b1f02eaad8e2?source=rss-237f5450cc5e------2)
-- [AI Brain Rot Is Real. Your Flutter Skills Are Already Paying for It](https://thejenildgohel.medium.com/ai-brain-rot-is-real-your-flutter-skills-are-already-paying-for-it-7e6b080b2883?source=rss-237f5450cc5e------2)
-- [Dart Records and Patterns: Stop Writing Throwaway Classes in Flutter](https://blog.stackademic.com/dart-records-and-patterns-stop-writing-throwaway-classes-in-flutter-f3c675fa6eae?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [AI Brain Rot Is Real. Your Flutter Skills Are Already Paying for It](https://thejenildgohel.medium.com/ai-brain-rot-is-real-your-flutter-skills-are-already-paying-for-it-7e6b080b2883?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
