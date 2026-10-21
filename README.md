@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple “Pro and Tell” Event: The Touchscreen MacBook Pro Leak Just Got Real](https://thejenildgohel.medium.com/apple-pro-and-tell-event-the-touchscreen-macbook-pro-leak-just-got-real-c5b297b1b160?source=rss-237f5450cc5e------2)
+- [Android 17 Developer Changes: What Actually Breaks Your App &lpar;I Checked the Docs&rpar;](https://thejenildgohel.medium.com/android-17-developer-changes-what-actually-breaks-your-app-i-checked-the-docs-e14ca0e249cb?source=rss-237f5450cc5e------2)
 - [Google Play Personal Apps: Ship AI-Built Android Apps Without Play Console &lpar;Read the Fine Print…](https://thejenildgohel.medium.com/google-play-personal-apps-ship-ai-built-android-apps-without-play-console-read-the-fine-print-0b5884f4673c?source=rss-237f5450cc5e------2)
 - [Google Bard to Gemini: How Google Made a $100 Billion Mistake Disappear](https://thejenildgohel.medium.com/google-bard-to-gemini-how-google-made-a-100-billion-mistake-disappear-e221a0407636?source=rss-237f5450cc5e------2)
-- [Flutter Desktop vs Electron in 2026: Impeller Fixed One Problem, Not the Big One](https://thejenildgohel.medium.com/flutter-desktop-vs-electron-in-2026-impeller-fixed-one-problem-not-the-big-one-b80943f6f9ec?source=rss-237f5450cc5e------2)
-- [Genkit Dart 1.0 Is Stable. Your Shipped Flutter App Still Might Break.](https://blog.stackademic.com/genkit-dart-1-0-is-stable-your-shipped-flutter-app-still-might-break-e99098435af6?source=rss-237f5450cc5e------2)
-- [Apple HomeView at ₹39,900: Apple’s Smart Home Comeback Has a Catch](https://thejenildgohel.medium.com/apple-homeview-at-39-900-apples-smart-home-comeback-has-a-catch-fd02909212e0?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Flutter Desktop vs Electron in 2026: Impeller Fixed One Problem, Not the Big One](https://thejenildgohel.medium.com/flutter-desktop-vs-electron-in-2026-impeller-fixed-one-problem-not-the-big-one-b80943f6f9ec?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
