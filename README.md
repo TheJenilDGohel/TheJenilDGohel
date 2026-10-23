@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [EmbeddingGemma 2: One On-Device Model for Text, Images, Audio and Video &lpar;Read the Fine Print&rpar;](https://thejenildgohel.medium.com/embeddinggemma-2-one-on-device-model-for-text-images-audio-and-video-read-the-fine-print-eb829d18bee6?source=rss-237f5450cc5e------2)
 - [AI Automation for Developers: Washing Machines, Pilots and Architects Saw This Coming](https://thejenildgohel.medium.com/ai-automation-for-developers-washing-machines-pilots-and-architects-saw-this-coming-9fdcce735232?source=rss-237f5450cc5e------2)
 - [Apple “Pro and Tell” Event: The Touchscreen MacBook Pro Leak Just Got Real](https://thejenildgohel.medium.com/apple-pro-and-tell-event-the-touchscreen-macbook-pro-leak-just-got-real-c5b297b1b160?source=rss-237f5450cc5e------2)
 - [Android 17 Developer Changes: What Actually Breaks Your App &lpar;I Checked the Docs&rpar;](https://thejenildgohel.medium.com/android-17-developer-changes-what-actually-breaks-your-app-i-checked-the-docs-e14ca0e249cb?source=rss-237f5450cc5e------2)
-- [Google Play Personal Apps: Ship AI-Built Android Apps Without Play Console &lpar;Read the Fine Print…](https://thejenildgohel.medium.com/google-play-personal-apps-ship-ai-built-android-apps-without-play-console-read-the-fine-print-0b5884f4673c?source=rss-237f5450cc5e------2)
-- [Google Bard to Gemini: How Google Made a $100 Billion Mistake Disappear](https://thejenildgohel.medium.com/google-bard-to-gemini-how-google-made-a-100-billion-mistake-disappear-e221a0407636?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Google Play Personal Apps: Ship AI-Built Android Apps Without Play Console &lpar;Read the Fine Print…](https://thejenildgohel.medium.com/google-play-personal-apps-ship-ai-built-android-apps-without-play-console-read-the-fine-print-0b5884f4673c?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
