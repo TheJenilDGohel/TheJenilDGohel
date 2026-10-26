@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Finishing Our Projects and Killing the Fun: Phineas and Ferb Saw It Coming](https://thejenildgohel.medium.com/ai-is-finishing-our-projects-and-killing-the-fun-phineas-and-ferb-saw-it-coming-9c263cdaf184?source=rss-237f5450cc5e------2)
 - [ego lite Browser: I Switched From Chrome as My Daily Driver for AI Agents &lpar;Here’s Why&rpar;](https://thejenildgohel.medium.com/ego-lite-browser-i-switched-from-chrome-as-my-daily-driver-for-ai-agents-heres-why-be62a16dbed7?source=rss-237f5450cc5e------2)
 - [Flutter pub.dev Malware: What the XCSSET Incident Really Means &lpar;And What It Doesn’t&rpar;](https://meetcyber.net/flutter-pub-dev-malware-what-the-xcsset-incident-really-means-and-what-it-doesnt-c5b779fb71e9?source=rss-237f5450cc5e------2)
 - [EmbeddingGemma 2: One On-Device Model for Text, Images, Audio and Video &lpar;Read the Fine Print&rpar;](https://thejenildgohel.medium.com/embeddinggemma-2-one-on-device-model-for-text-images-audio-and-video-read-the-fine-print-eb829d18bee6?source=rss-237f5450cc5e------2)
-- [AI Automation for Developers: Washing Machines, Pilots and Architects Saw This Coming](https://thejenildgohel.medium.com/ai-automation-for-developers-washing-machines-pilots-and-architects-saw-this-coming-9fdcce735232?source=rss-237f5450cc5e------2)
-- [Apple “Pro and Tell” Event: The Touchscreen MacBook Pro Leak Just Got Real](https://thejenildgohel.medium.com/apple-pro-and-tell-event-the-touchscreen-macbook-pro-leak-just-got-real-c5b297b1b160?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [AI Automation for Developers: Washing Machines, Pilots and Architects Saw This Coming](https://thejenildgohel.medium.com/ai-automation-for-developers-washing-machines-pilots-and-architects-saw-this-coming-9fdcce735232?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
