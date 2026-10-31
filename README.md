@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Tolan AI Alien App: The Cutest Idea in AI Companions &lpar;and Why Android Users Are Locked Out&rpar;](https://thejenildgohel.medium.com/tolan-ai-alien-app-the-cutest-idea-in-ai-companions-and-why-android-users-are-locked-out-2fcacbc2e331?source=rss-237f5450cc5e------2)
+- [Is Flutter Still Worth Learning in 2026 When AI Writes Native Swift and Kotlin?](https://blog.stackademic.com/is-flutter-still-worth-learning-in-2026-when-ai-writes-native-swift-and-kotlin-6d7b83feda2a?source=rss-237f5450cc5e------2)
 - [Vibe Coding Made Everyone a Builder. So Who’s Left to Be the User?](https://thejenildgohel.medium.com/vibe-coding-made-everyone-a-builder-so-whos-left-to-be-the-user-aa1192cb35c6?source=rss-237f5450cc5e------2)
 - [MacBook Pro Touchscreen OLED Is Here: A Gorgeous Flex Machine Most Developers Don’t Need](https://thejenildgohel.medium.com/macbook-pro-touchscreen-oled-is-here-a-gorgeous-flex-machine-most-developers-dont-need-60b54581e128?source=rss-237f5450cc5e------2)
-- [Apple Pro and Tell Event 2026: The Touchscreen MacBook Pro Has a Lot to Prove Today](https://thejenildgohel.medium.com/apple-pro-and-tell-event-2026-the-touchscreen-macbook-pro-has-a-lot-to-prove-today-08289432f38c?source=rss-237f5450cc5e------2)
-- [iPad mini OLED 2026: Apple Dropped It Before “Pro and Tell” — Is $699 Fair?](https://thejenildgohel.medium.com/ipad-mini-oled-2026-apple-dropped-it-before-pro-and-tell-is-699-fair-dd2aee259588?source=rss-237f5450cc5e------2)
-- [Google’s Harness2 Explained: The Open-Source Framework Where AI Agents Rewrite Their Own Harness](https://thejenildgohel.medium.com/googles-harness2-explained-the-open-source-framework-where-ai-agents-rewrite-their-own-harness-131043044027?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Apple Pro and Tell Event 2026: The Touchscreen MacBook Pro Has a Lot to Prove Today](https://thejenildgohel.medium.com/apple-pro-and-tell-event-2026-the-touchscreen-macbook-pro-has-a-lot-to-prove-today-08289432f38c?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
