@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini Nano on Android: Free, Private, On-Device AI? What the Docs Quietly Admit](https://blog.stackademic.com/gemini-nano-on-android-free-private-on-device-ai-what-the-docs-quietly-admit-988568baaab8?source=rss-237f5450cc5e------2)
 - [OpenIDEA: The Rust IntelliJ Alternative That Claims 12x Less Memory. I Read the Repo.](https://thejenildgohel.medium.com/openidea-the-rust-intellij-alternative-that-claims-12x-less-memory-i-read-the-repo-4cc3dc5add0e?source=rss-237f5450cc5e------2)
 - [DevFest Gandhinagar 2026 Review: Worth Attending?](https://thejenildgohel.medium.com/devfest-gandhinagar-2026-review-worth-attending-49425ef0a854?source=rss-237f5450cc5e------2)
 - [Android CLI Is Google’s Real Bet on Agent-First Development. Here’s What It Actually Does](https://thejenildgohel.medium.com/android-cli-is-googles-real-bet-on-agent-first-development-here-s-what-it-actually-does-ba407884e3f2?source=rss-237f5450cc5e------2)
-- [Tolan AI Alien App: The Cutest IdeainAI Companions &lpar;and Why Android Users Are Locked Out&rpar;](https://thejenildgohel.medium.com/tolan-ai-alien-app-the-cutest-idea-in-ai-companions-and-why-android-users-are-locked-out-2fcacbc2e331?source=rss-237f5450cc5e------2)
-- [Is Flutter Still Worth Learning in 2026When AI Writes Native Swift and Kotlin?](https://blog.stackademic.com/is-flutter-still-worth-learning-in-2026-when-ai-writes-native-swift-and-kotlin-6d7b83feda2a?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Tolan AI Alien App: The Cutest IdeainAI Companions &lpar;and Why Android Users Are Locked Out&rpar;](https://thejenildgohel.medium.com/tolan-ai-alien-app-the-cutest-idea-in-ai-companions-and-why-android-users-are-locked-out-2fcacbc2e331?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
