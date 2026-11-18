@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Harbor App: A Private AI Server Built From Your Macs. Here’s What We Actually Know.](https://blog.stackademic.com/apples-harbor-app-a-private-ai-server-built-from-your-macs-here-s-what-we-actually-know-2753c81849a5?source=rss-237f5450cc5e------2)
 - [Flutter 3.50 Explained: What’s New and What to Migrate](https://thejenildgohel.medium.com/flutter-3-50-explained-whats-new-and-what-to-migrate-c179fb513a06?source=rss-237f5450cc5e------2)
 - [CameraX 1.6 and 1.7 Explained: What Actually Changed](https://thejenildgohel.medium.com/camerax-1-6-and-1-7-explained-what-actually-changed-405c052b7dd4?source=rss-237f5450cc5e------2)
 - [GhostMap Android Flaw Explained: The Boot Loop Bug](https://thejenildgohel.medium.com/ghostmap-android-flaw-explained-the-boot-loop-bug-a0dddec49722?source=rss-237f5450cc5e------2)
-- [Gemini Nano on Android: Free, Private, On-Device AI? What the Docs Quietly Admit](https://blog.stackademic.com/gemini-nano-on-android-free-private-on-device-ai-what-the-docs-quietly-admit-988568baaab8?source=rss-237f5450cc5e------2)
-- [OpenIDEA: The Rust IntelliJ Alternative That Claims 12x Less Memory. I Read the Repo.](https://thejenildgohel.medium.com/openidea-the-rust-intellij-alternative-that-claims-12x-less-memory-i-read-the-repo-4cc3dc5add0e?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Gemini Nano on Android: Free, Private, On-Device AI? What the Docs Quietly Admit](https://blog.stackademic.com/gemini-nano-on-android-free-private-on-device-ai-what-the-docs-quietly-admit-988568baaab8?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
